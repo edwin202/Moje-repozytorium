@@ -10,6 +10,7 @@ bool Plec(string Imie, int IloscLiter);
 string PoprawImie(string Imie);
 bool SprawdzDane(string Imie);
 
+//fsd
 int main(int argc, char *argv[])
 {
      string pImie;
