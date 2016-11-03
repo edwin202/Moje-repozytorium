@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //Komentarz Bartka
 #include<math.h>
 using namespace std;
 
