@@ -1,4 +1,4 @@
-#include <cstdlib>
+#include <cstdlib> //moj komentarz
 #include <iostream>
 #include <cstdio>
 #include <cmath>
