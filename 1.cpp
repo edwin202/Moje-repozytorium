@@ -2,7 +2,7 @@
 #include<math.h> //dasdas
 using namespace std;
 
-//nowy
+//nowy fsdfsd
 float odA[3][3], dop[3][3], A[3][3]={1,2,3,2,1,4,2,1,5};
 int i, j;                           
 
