@@ -14,7 +14,7 @@ int xliniowe(int c, int b)
 {return -c/b;}
 
 
-
+//jghgh
 
 
 main ()
