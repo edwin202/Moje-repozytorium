@@ -40,12 +40,12 @@ int ile_przestepnych(int r)
   return iprzestepnych;
 }
 
+//komen
 
 
 
 
-
-//G³ówna
+//GÂ³Ã³wna
 
 int main(int argc, char *argv[])
 {

@@ -4,6 +4,8 @@
 #include <string>
 #include <fstream>
 class Zwierze
+   
+   //kom
 {
    public:
       Zwierze()
@@ -38,7 +40,7 @@ class Pies : public Zwierze
         std::cout << "Hal, Hal... Hal... Hal... Hal... Hal... Hal...";
      }
      
-    //nadpisanie przeci¹¿enie 
+    //nadpisanie przeciÂ¹Â¿enie 
      void jedz()
      {
         std::cout << " jemjemjemjemjemjemjemjemjemjemj";

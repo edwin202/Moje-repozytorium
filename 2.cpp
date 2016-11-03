@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <cmath>
 
-
+//fsd
 using namespace std;
 
 double srednia(double b, double n ){

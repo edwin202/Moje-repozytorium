@@ -2,6 +2,7 @@
 #include<math.h> //dasdas
 using namespace std;
 
+//nowy
 float odA[3][3], dop[3][3], A[3][3]={1,2,3,2,1,4,2,1,5};
 int i, j;                           
 
@@ -34,7 +35,7 @@ float detA=(A[0][0]*A[1][1]*A[2][2])+(A[0][1]*A[1][2]*A[2][0])+(A[0][2]*A[1][0]*
 cout<<"\n\n\n    detA = "<<detA<<"\n\n\n";
 
 
-      dop[0][0]=A[1][1]*A[2][2]-A[2][1]*A[1][2],           // liczenie dope³nieñ
+      dop[0][0]=A[1][1]*A[2][2]-A[2][1]*A[1][2],           // liczenie dopeÂ³nieÃ±
       dop[1][0]=A[0][1]*A[2][2]-A[2][1]*A[0][2]*(-1),
       dop[2][0]=A[0][1]*A[1][2]-A[1][1]*A[0][2],
       dop[0][1]=A[1][0]*A[2][2]-A[2][0]*A[2][1]*(-1),
