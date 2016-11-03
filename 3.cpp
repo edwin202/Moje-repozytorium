@@ -16,6 +16,8 @@ int rok_przestepny(int r)
   return (r%400==0 || (r%4==0 && r%100!=0));
 }
 
+
+//das
 int mk_dni_mies_rok()
 {
   int n;
