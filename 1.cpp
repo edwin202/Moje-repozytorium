@@ -2,14 +2,16 @@
 #include<math.h> //dasdas
 using namespace std;
 
-//nowy fsdfsd
-float odA[3][3], dop[3][3], A[3][3]={1,2,3,2,1,4,2,1,5};
+//nowy fsdfsw
+//nowy kom
+Nazwa wwq' nie jest rozpoznawana jako polecenie wewn©trzne lub zewn©trzne,
+program wykonywalny lub plik wsadowy.
 int i, j;                           
 
 main()
 {
 for(i=0;i<3;i++)                                            // dla kazdego wiersza i zostaja pzypisane liczyby kolumn j
-{for(j=0;j<3;j++)
+{for(j=0;j<3;j++}
 {A[i][j];
 dop[i][j];}}                                                 //przypisanie liczb macierzy A.33 do A.ij i dop.33 do dop.ij
 
