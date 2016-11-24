@@ -3,6 +3,8 @@
 #include <string>
 #include <fstream>
 
+//nowy kom
+
 using namespace std;
 
 struct vinyle
