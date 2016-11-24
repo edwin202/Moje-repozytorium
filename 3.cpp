@@ -18,7 +18,7 @@ int rok_przestepny(int r)
 
 
 //das
-//nowy kom
+//nowy kofdsfsd`m
 int mk_dni_mies_rok()
 {
   int n;
