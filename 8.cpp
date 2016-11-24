@@ -2,6 +2,8 @@
 #include<;conio.h>;
 #include <;fstream>;
 
+//nowy kom
+
 using namespace std;
 int select;
 int end;
