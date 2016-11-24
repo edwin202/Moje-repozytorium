@@ -18,6 +18,7 @@ int rok_przestepny(int r)
 
 
 //das
+//nowy kom
 int mk_dni_mies_rok()
 {
   int n;
