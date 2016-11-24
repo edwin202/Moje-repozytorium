@@ -57,7 +57,7 @@ double getN(double n, double s, double A[ 10]){
 
 
 //jescze jeden
-//nowy kom
+//nfsdowy kom
 
 int main(int argc, char *argv[])
 {
