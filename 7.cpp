@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//nowy kom
+
 int IloscLiter(string Imie);
 bool Plec(string Imie, int IloscLiter);
 string PoprawImie(string Imie);
