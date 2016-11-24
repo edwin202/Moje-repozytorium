@@ -51,7 +51,7 @@ const char *dectorom( int liczba )
 }
 
 
-
+//nowy kom
 
 
 
