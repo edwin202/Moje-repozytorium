@@ -4,6 +4,7 @@
 #include <cmath>
 
 //fsd
+//nowy kom edycja bash
 using namespace std;
 
 double srednia(double b, double n ){
@@ -56,6 +57,7 @@ double getN(double n, double s, double A[ 10]){
 
 
 //jescze jeden
+//nowy kom
 
 int main(int argc, char *argv[])
 {
@@ -66,3 +68,4 @@ int main(int argc, char *argv[])
     system("PAUSE");
     return EXIT_SUCCESS;
 }
+
