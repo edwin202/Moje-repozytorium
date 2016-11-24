@@ -15,7 +15,7 @@ int xliniowe(int c, int b)
 
 
 //jghgh
-
+//nowy kom
 
 main ()
 
